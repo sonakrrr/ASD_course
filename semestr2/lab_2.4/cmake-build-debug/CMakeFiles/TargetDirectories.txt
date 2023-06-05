@@ -1,0 +1,3 @@
+D:/programming/asd/semestr2/lab_2.4/cmake-build-debug/CMakeFiles/lab_2_4.dir
+D:/programming/asd/semestr2/lab_2.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/asd/semestr2/lab_2.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
